@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591007249 source:c:\users\dedalius\desktop\c++\testcrack\main.cpp
+	<bits/stdc++.h>
+	<cstring>
+	<windows.h>
+
