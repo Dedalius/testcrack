@@ -3,7 +3,7 @@ THE PROGRAM IS DESIGNED FOR THE WINDOWS OPERATING SYSTEM
 Often, during contests, my friend faced the problem of finding an erroneous test.
 Of course, you can write a program in the bash language that can cope with this problem, but this is just not suitable for novice coders, and the windows 1909 build changed the way to run .bat. This is what prompted me to write this code
 
----------------------------------------------------Now about the installation method----------------------------------------------------
+---------------------------------------------------Now about the installation method--------------------------------------------------
 
 Since the program works by passing arguments, it is ideal for cmd, so you need to write it in PATH in the windows environment variables section
 
