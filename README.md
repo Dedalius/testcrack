@@ -30,7 +30,8 @@ As you can see the input output folders contain input and output data respective
 
 And now to the most interesting, to the work of the software
 ![Image alt](https://sun9-37.userapi.com/c858016/v858016702/205307/oq2CS3pr8J4.jpg)
-
+The program also works in PowerShell
+![Image alt](https://sun9-51.userapi.com/c858016/v858016918/205cef/YLyUyOG9Q4M.jpg)
 As you might have noticed 2.exe with a probability of 1/100, it could return not a + b, but a + b + 1, which is exactly what testcrack found
 
 
